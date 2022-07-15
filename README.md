@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HeoKwon%20Github&fontSize=90)
 <br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheokwon%2Fhit-counter&count_bg=%23141414&title_bg=%237828CA&icon=hey.svg&icon_color=%23F0F0F0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Profile
-* **Name** : HEO KWON<br>
-* **E-mail** : gjrnjs21@gmail.com<br>
-* **Graduation** : Kang-Won-University<br>
-* **Major** : Vehicle-Engineering<br>
-* **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]<br>
+#### **Name** : HEO KWON
+#### **E-mail** : gjrnjs21@gmail.com
+#### **Graduation** : Kang-Won-University
+#### **Major** : Vehicle-Engineering
+#### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
 # works
 Project  | Date | Project-Theme | Skill | Link
 ---------------------------|------|-------|-----------------|---------------------|
