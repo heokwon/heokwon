@@ -27,9 +27,12 @@ Here are some ideas to get you started:
 | Musinsa(NLP) | 2022.06-2022.07 | Predicting Star-Rate Using Review | [DL]Modeling, Data Augmentation | (https://) |
 | CarDamageDetection| 2022.06-2022.07 | MultiClass_SemanticSegmentation | SemanticSegmentation, Data Augmentation | (https://) |
 
-<hr><br>
+<hr>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
+
 <br>
+
 # SNS
 <a href="https://www.instagram.com/hukkwon/"><img src="https://img.shields.io/badge/Instagram-ED27FD?style=flat-       square&logo=Instagram&logoColor=white"/></a>
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heo.kwon.3)](https://www.facebook.com/heo.kwon.3)
