@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HeoKwon%20Github&fontSize=90)
 <br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheokwon%2Fhit-counter&count_bg=%23141414&title_bg=%237828CA&icon=hey.svg&icon_color=%23F0F0F0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Profile
+* **Name** : HEO KWON
+* **E-mail** : gjrnjs21@gmail.com
+* **Graduation** : Kang-Won-University
+* **Major** : Vehicle-Engineering
+* **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
 # SNS
 <a href="https://www.instagram.com/hukkwon/"><img src="https://img.shields.io/badge/Instagram-FFCA28?style=flat-       square&logo=Instagram&logoColor=white"/></a>
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heo.kwon.3)](https://www.facebook.com/heo.kwon.3)
