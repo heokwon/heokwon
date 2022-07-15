@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 # SNS
 <a href="https://www.instagram.com/hukkwon/"><img src="https://img.shields.io/badge/Instagram-B00DD8?style=flat-       square&logo=Instagram&logoColor=white"/></a>
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heo.kwon.3)](https://www.facebook.com/heo.kwon.3)
+<a href="https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca"><img src="https://img.shields.io/badge/NOTION-383838?style=flat-square&logo=NOTION&logoColor=white"/></a>
 # Skills
 ### Platforms & Languages
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
