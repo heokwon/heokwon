@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 # works
 | Project  | Date | Project-Theme | Skill | Link |
 |---------------------------|------|-------|-----------------|---------------------|
-| Musinsa(NLP) | 2022.06-2022.07 | RecommendingItems | ML | (https://) |
-| Musinsa(NLP) | 2022.06-2022.07 | Predicting Star-Rate Using Review | [DL]Modeling, Data Augmentation | (https://) |
-| CarDamageDetection| 2022.06-2022.07 | MultiClass_SemanticSegmentation | SemanticSegmentation, Data Augmentation | (https://) |
+| Musinsa(NLP) | 2022.06-2022.07 | RecommendingItems | ML | [DATA LIST](https://) |
+| Musinsa(NLP) | 2022.06-2022.07 | Predicting Star-Rate Using Review | [DL]Modeling, Data Augmentation | [DATA LIST](https://) |
+| CarDamageDetection| 2022.06-2022.07 | MultiClass_SemanticSegmentation | SemanticSegmentation, Data Augmentation | [DATA LIST](https://) |
 
 <hr>
 
