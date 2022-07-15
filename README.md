@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 # SNS
-<a href="https://www.instagram.com/hukkwon/"><img src="https://img.shields.io/badge/Instagram-ED27FD?style=flat-       square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/hukkwon/"><img src="https://img.shields.io/badge/Instagram-B00DD8?style=flat-       square&logo=Instagram&logoColor=white"/></a>
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heo.kwon.3)](https://www.facebook.com/heo.kwon.3)
 # Skills
 ### Platforms & Languages
