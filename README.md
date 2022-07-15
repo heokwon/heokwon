@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Profile
 #### **Name** : HEO KWON
 #### **E-mail** : gjrnjs21@gmail.com
-#### **Graduation** : Kang-Won-University
+#### **Graduation** : Kangwon National University
 #### **Major** : Vehicle-Engineering
 #### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
 # works
