@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 #### **Major** : Vehicle-Engineering
 #### **Award** : Participation Award in 2017 KNU Capstone Design
 #### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
 # Project(TEAM)
 <a href="https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca"><img src="https://img.shields.io/badge/NOTION-383838?style=flat-square&logo=NOTION&logoColor=white"/></a>
 | Project  | Date | Project-Theme | Skill | Link |
@@ -40,5 +41,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heokwon)](https://github.com/heokwon/github-readme-stats)
-<hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
