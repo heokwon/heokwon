@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 <br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heokwon)](https://github.com/heokwon/github-readme-stats)
 <hr>
-<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
