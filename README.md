@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 #### **E-mail** : gjrnjs21@gmail.com
 #### **Graduation** : Kangwon National University
 #### **Major** : Vehicle-Engineering
+#### **Award** : Participation Award in 2017 KNU Capstone Design
 #### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
 # works
 | Project  | Date | Project-Theme | Skill | Link |
