@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### **Major** : Vehicle-Engineering
 #### **Award** : Participation Award in 2017 KNU Capstone Design
 #### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
-# works
+# Project(TEAM)
 <a href="https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca"><img src="https://img.shields.io/badge/NOTION-383838?style=flat-square&logo=NOTION&logoColor=white"/></a>
 | Project  | Date | Project-Theme | Skill | Link |
 |---------------------------|------|-------|-----------------|---------------------|
