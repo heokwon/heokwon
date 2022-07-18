@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 #### **Award** : Participation Award in 2017 KNU Capstone Design
 #### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
 # works
+<a href="https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca"><img src="https://img.shields.io/badge/NOTION-383838?style=flat-square&logo=NOTION&logoColor=white"/></a>
 | Project  | Date | Project-Theme | Skill | Link |
 |---------------------------|------|-------|-----------------|---------------------|
 | Musinsa(NLP) | 2022.06-2022.07 | RecommendingItems | ML | [DATA LIST](https://) |
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 # SNS
 <a href="https://www.instagram.com/hukkwon/"><img src="https://img.shields.io/badge/Instagram-B00DD8?style=flat-       square&logo=Instagram&logoColor=white"/></a>
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heo.kwon.3)](https://www.facebook.com/heo.kwon.3)
-<a href="https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca"><img src="https://img.shields.io/badge/NOTION-383838?style=flat-square&logo=NOTION&logoColor=white"/></a>
+
 # Skills
 ### Platforms & Languages
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
