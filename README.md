@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
-
-<br>
-
 # SNS
 <a href="https://www.instagram.com/hukkwon/"><img src="https://img.shields.io/badge/Instagram-B00DD8?style=flat-       square&logo=Instagram&logoColor=white"/></a>
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heo.kwon.3)](https://www.facebook.com/heo.kwon.3)
@@ -44,3 +40,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heokwon)](https://github.com/heokwon/github-readme-stats)
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
