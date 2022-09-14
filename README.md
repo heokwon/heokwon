@@ -22,12 +22,17 @@ Here are some ideas to get you started:
 #### **Award** : Participation Award in 2017 KNU Capstone Design
 #### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
+# Mini Project(TEAM)
+| Project  | Date | Project-Theme | Skill | Link |
+|---------------------------|------|-------|-----------------|---------------------|
+| TextMining withML | 2022.04 | Analysis about Russia-Ukraine war | TF-IDF, Sentiment Analysis, Word Cloud, LDA, Logistic Regression | [Main](https://github.com/heokwon/TextMining_withML.git) |
+| Diet Service | 2022.05 | Provide information about food | Objectg Detective, Data Handling | [Main](https://github.com/heokwon/DietService-ObjectDetection.git) |
+| Distinguish Click-bait | 2022.06 | Compare Headline with Text summary and distinguish Click-bait | Hugging Face(transformers), Refine dataset, DataFrame Handling | [Main]() |
 # Project(TEAM)
 <a href="https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca"><img src="https://img.shields.io/badge/NOTION-383838?style=flat-square&logo=NOTION&logoColor=white"/></a>
 | Project  | Date | Project-Theme | Skill | Link |
 |---------------------------|------|-------|-----------------|---------------------|
-| Diet Service | 2022.05 | provide information about food | Objectg Detective, Data Handling | [Main](https://github.com/heokwon/DietService-ObjectDetection.git) |
-| Musinsa(NLP) | 2022.06-2022.07 | RecommendingItems | ML | [DATA LIST](https://) |
+| Musinsa(NLP) | 2022.06-2022.07 | Recommending Items | ML | [DATA LIST](https://) |
 | Musinsa(NLP) | 2022.06-2022.07 | Predicting Star-Rate Using Review | [DL]Modeling, Data Augmentation | [DATA LIST](https://) |
 | Car Damage Detection | 2022.06-2022.07 | MultiClass_SemanticSegmentation | Semantic Segmentation, Data Augmentation | [Main](https://github.com/heokwon/CodeEnter_DeepLabv3FineTuning.git), [Training](https://github.com/heokwon/CarDamageDetection_DeepLabV3.git), [Data Handling](https://github.com/heokwon/CarDamageDetection_DataHandling.git) |
 | Kaggle Competition | 2022.08-2022.09 | HuBMAP + HPA - Hacking The Human Body | Semantic Segmentation, Data Augmentation | [Training](https://github.com/heokwon/Training-for-Competiton.git), [Data Handling](https://github.com/heokwon/Data-Handling-for-Competiton.git) |
