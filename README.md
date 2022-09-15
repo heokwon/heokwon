@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 |---------------------------|------|-------|-----------------|---------------------|
 | Musinsa(NLP) | 2022.06-2022.07 | Recommending Items | ML | [DATA LIST](https://) |
 | Musinsa(NLP) | 2022.06-2022.07 | Predicting Star-Rate Using Review | [DL]Modeling, Data Augmentation | [DATA LIST](https://) |
-| Car Damage Detection | 2022.06-2022.07 | MultiClass_SemanticSegmentation | Semantic Segmentation, Data Augmentation | [Main](https://github.com/heokwon/CodeEnter_DeepLabv3FineTuning.git), [Training](https://github.com/heokwon/CarDamageDetection_DeepLabV3.git), [Data Handling](https://github.com/heokwon/CarDamageDetection_DataHandling.git) |
-| Kaggle Competition | 2022.08-2022.09 | HuBMAP + HPA - Hacking The Human Body | Semantic Segmentation, Data Augmentation | [Training](https://github.com/heokwon/Training-for-Competiton.git), [Data Handling](https://github.com/heokwon/Data-Handling-for-Competiton.git) |
+| Car Damage Detection | 2022.06-2022.07 | Detecting broken parts of vehicle | Semantic Segmentation, Pytorch, Augmentation | [Main](https://github.com/heokwon/CodeEnter_DeepLabv3FineTuning.git), [Training](https://github.com/heokwon/CarDamageDetection_DeepLabV3.git), [Data Handling](https://github.com/heokwon/CarDamageDetection_DataHandling.git) |
+| Kaggle Competition | 2022.08-2022.09 | HuBMAP + HPA - Hacking The Human Body | Semantic Segmentation, Pytorch, Weights & Bias, AWS, Augmentation, Data Handling | [Training](https://github.com/heokwon/Training-for-Competiton.git), [Data Handling](https://github.com/heokwon/Data-Handling-for-Competiton.git) |
 
 <hr>
 
