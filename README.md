@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 #### **E-mail** : gjrnjs21@gmail.com
 #### **Graduation** : Kangwon National University
 #### **Major** : Vehicle-Engineering
-#### **Award** : Participation Award in 2017 KNU Capstone Design
+#### **Award** : 
+- **Participation Award in 2017 KNU Capstone Design**   
+- **kaggle competition HuBMAP + HPA - Hacking the Human Body Bronze Medal**
 #### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
 # Mini Project(TEAM)
