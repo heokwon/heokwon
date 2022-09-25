@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - **Participation Award in 2017 KNU Capstone Design**   
 - **kaggle competition HuBMAP + HPA - Hacking the Human Body Bronze Medal**
 #### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
-<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heokwon&show_icons=true&theme=radical)
+<br><br>
 # Mini Team Project
 | Project  | Date | Project-Theme | Skill | Link |
 |---------------------------|------|-------|-----------------|---------------------|
