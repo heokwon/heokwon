@@ -59,3 +59,4 @@ OpenCV, Pillow, NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup
 
 ## Currently
 * **NLP Practie** - [Survey Analysis with TextMining and Visualizing](https://github.com/heokwon/Survey-analysis.git)
+* **Dacon competition** - 2022 관광데이터 AI 경진대회 , Multi Modal(CNN + CountVectorizer) 분류모델
