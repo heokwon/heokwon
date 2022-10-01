@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 <br>
 
 ## Currently
-* NLP Practie - [Survey Analysis with TextMining and Visualizing](https://github.com/heokwon/Survey-analysis.git)
+* **NLP Practie** - [Survey Analysis with TextMining and Visualizing](https://github.com/heokwon/Survey-analysis.git)
