@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br><br>
+### Tool-Box
+* Tensorflow, Pytorch, Fast-Ai, HuggingFace, Sentence-Transformers, Scikit-learn, Gensim   
+OpenCV, Pillow, NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup   
+
+* MMDetection, MMSegmentation, Weights and Biases
+<br><br>
 ## Mini Team Project
 | Project  | Date | Project-Theme | Skill | Link |
 |---------------------------|------|-------|-----------------|---------------------|
