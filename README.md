@@ -42,7 +42,7 @@ OpenCV, Pillow, NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup
 |---------------------------|------|-------|-----------------|---------------------|
 | TextMining withML(NLP) | 2022.04 | Analysis about Russia-Ukraine war | TF-IDF, Sentiment Analysis, Word Cloud, LDA, Logistic Regression | [Main](https://github.com/heokwon/TextMining_withML.git) |
 | Diet Service(CV) | 2022.05 | Provide information about food | Objectg Detective, Data Handling | [Main](https://github.com/heokwon/DietService-ObjectDetection.git) |
-| Distinguish Click-bait(NLP) | 2022.06 | Compare Headline with Text summary and distinguish Click-bait | Hugging Face(transformers), Refine dataset, DataFrame Handling | [Main](https://github.com/heokwon/Distinguish_Click-bait.git) |   
+| Distinguish Click-bait(NLP) | 2022.05 | Compare Headline with Text summary and distinguish Click-bait | Hugging Face(transformers), Refine dataset, DataFrame Handling | [Main](https://github.com/heokwon/Distinguish_Click-bait.git) |   
 
 <br>
 
