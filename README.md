@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - **Participation Award in 2017 KNU Capstone Design**   
 - **kaggle competition HuBMAP + HPA - Hacking the Human Body Bronze Medal**
 #### **Study** : alpaco 2nd Deep-Learning BootCamp [ Big Data, ML, DL ]
+#### **[Portfolio](https://github.com/heokwon/Portfolio.git)**
 <br><br>
 ## Skills
 ### Platforms & Languages
