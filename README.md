@@ -41,6 +41,7 @@ OpenCV, Pillow, NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup
 | Project  | Date | Project-Theme | Skill | Link |
 |---------------------------|------|-------|-----------------|---------------------|
 | TextMining withML(NLP) | 2022.04 | Analysis about Russia-Ukraine war | TF-IDF, Sentiment Analysis, Word Cloud, LDA, Logistic Regression | [Main](https://github.com/heokwon/TextMining_withML.git) |
+| Dog Classificatoin(CV) | 2022.05 | Classification of Dog Image | Image Classification, Data Preprocessing, Modeling | [Main](https://github.com/heokwon/Dog_Classification.git)|
 | Diet Service(CV) | 2022.05 | Provide information about food | Objectg Detective, Data Handling | [Main](https://github.com/heokwon/DietService-ObjectDetection.git) |
 | Distinguish Click-bait(NLP) | 2022.05 | Compare Headline with Text summary and distinguish Click-bait | Hugging Face(transformers), Refine dataset, DataFrame Handling | [Main](https://github.com/heokwon/Distinguish_Click-bait.git) |   
 
