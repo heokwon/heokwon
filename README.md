@@ -58,7 +58,12 @@ OpenCV, Pillow, NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup
 
 <br>
 
-## Currently
+## Other Project
 * **[Survey Analysis with TextMining and Visualizing](https://github.com/heokwon/Survey-analysis.git)**
 * **[Python Algorithm and Coding Study](https://github.com/heokwon/Algorithm_Study.git)**
 * **[OCR_Vehicle-registration-plate](https://github.com/heokwon/OCR_Vehicle-registration-plate)**
+
+<br>
+
+## Currently
+* 수산식품영상검출 프로젝트 2023.02 ~
